@@ -1,0 +1,12 @@
+.container-fluid{
+    background-color:rgb(147, 226, 191);
+    }
+
+footer{
+    background-color:rgb(147, 226, 191);
+    padding: 20px 0;
+}
+
+footer .nav-link{
+    color: #000;
+}
